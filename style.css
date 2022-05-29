@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body {
+  background: #239496;
+}
+.containerHex{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.background {
+  background: black;
+  color: white;
+}
+span {
+  color: skyblue;
+}
+.clickMe {
+  margin-left: 10px;
+  border-color: grey;
+  font-weight: 500;
+}
+
